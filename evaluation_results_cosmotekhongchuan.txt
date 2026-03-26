@@ -1,6 +1,6 @@
 
 ==================================================
-📊 BẢNG TỔNG HỢP CHỈ SỐ ĐÁNH GIÁ (SAU KHI HYBRID RESAMPLING)
+📊 BẢNG TỔNG HỢP CHỈ SỐ ĐÁNH GIÁ
 ==================================================
 ✔️ Accuracy  : 95.84%
 🎯 Precision : 62.02%
